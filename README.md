@@ -127,7 +127,7 @@ Visualises sales, margins, product performance, and customer behaviour.
 - Data cleaning with pandas  
 - Visualising trends with matplotlib & seaborn
 -   
-- 📁 PBIX notebooks/supply_chain_logistics_analysis.ipynb
+- 📁 Notebook supply_chain_logistics_analysis.ipynb
 - 📄 Project Folder README.md
 
 ---
