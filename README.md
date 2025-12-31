@@ -80,30 +80,28 @@ This background allows me to build dashboards that are:
 
 ## 📊 Power BI Portfolio
 
-### **1. Sales Performance Dashboard**
+### **1. Demand Forecasting Dashboard**
 A clean, interactive dashboard analysing revenue trends, category performance, and drill‑down insights.
 
-- 📁 PBIX File (upload link)
-- 🖼️ Screenshots (add images folder)
-- 📄 Project Folder (link)
+- 📁 PBIX powerbi/SupplyChain_DemandForecast_ProductA_2021-2024.pbix
+- 🖼️ Screenshots images/SupplyChain_DemandForecast_Dashboard_ProductA.JPG
+- 📄 Project Folder README.md
 
 ---
 
 ### **2. Inventory & Warehouse Dashboard**
 Tracks stock levels, demand patterns, warehouse KPIs, and operational bottlenecks.
 
-- 📁 PBIX File  
-- 🖼️ Screenshots  
-- 📄 Project Folder  
+- 📁 PBIX File  File pbix/SupplyChain_KPI_Dashboard.pbix
+- 🖼️ Screenshots  images/Supply-chain-kpi-dashboard.JPG
+- 📄 Project Folder  README.md
 
 ---
 
 ### **3. Retail & FMCG Insights Dashboard**
 Visualises sales, margins, product performance, and customer behaviour.
 
-- 📁 PBIX File  
-- 🖼️ Screenshots  
-- 📄 Project Folder  
+- 📄 Project Folder  README.md
 
 ---
 
@@ -114,8 +112,12 @@ Visualises sales, margins, product performance, and customer behaviour.
 - Monthly sales trends  
 - Window function analysis  
 - Customer segmentation using CTEs  
-- Inventory ageing report  
-
+- Inventory ageing report
+-  
+- 📁 PBIX sql
+- 🖼️ Screenshots images
+- 📄 Project Folder README.md
+  
 ---
 
 ## 🐍 Python Projects
@@ -123,11 +125,14 @@ Visualises sales, margins, product performance, and customer behaviour.
 - EDA on supply chain dataset  
 - Forecasting with Prophet  
 - Data cleaning with pandas  
-- Visualising trends with matplotlib & seaborn  
+- Visualising trends with matplotlib & seaborn
+-   
+- 📁 PBIX notebooks/supply_chain_logistics_analysis.ipynb
+- 📄 Project Folder README.md
 
 ---
 
 ## 📬 Contact
 
-- **LinkedIn:** (add link)  
+- **LinkedIn:** https://www.linkedin.com/in/pn-analyst/
 - **Email:**  Analyst.nz@outlook.com
