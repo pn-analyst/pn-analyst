@@ -44,8 +44,8 @@ I specialise in transforming raw data into clear, actionable insights using Powe
 |-----------|--------|
 | Pandas (Cleaning, Merging, Grouping) | Intermediate |
 | EDA (describe, distributions, trends) | Intermediate |
-| Visualisation (matplotlib, seaborn) | Beginner–Intermediate |
-| Forecasting (scikit-learn, Prophet basics) | Beginner |
+| Visualisation (matplotlib, seaborn) | Intermediate |
+| Forecasting (scikit-learn, Prophet basics) | Intermediate |
 
 ---
 
@@ -55,19 +55,20 @@ I bring strong real‑world business context from years of hands‑on experience
 
 - Supply chain  
 - Logistics  
-- Warehousing  
-- Retail  
-- FMCG  
-- Wholesale  
+- Warehousing
+- Retail & Wholesale 
+- FMCG & Production  
+- Accounting  
 - Hospitality  
 - Sales & purchasing  
 - Inventory & distribution  
 
-ERP systems I’ve worked with:
+ERP & Inventory systems I’ve worked with:
 
 - **Microsoft Dynamics 365**  
 - **Cin7**  
 - **SAP**
+- **MYOB**
 
 This background allows me to build dashboards that are:
 - Practical  
@@ -129,4 +130,4 @@ Visualises sales, margins, product performance, and customer behaviour.
 ## 📬 Contact
 
 - **LinkedIn:** (add link)  
-- **Email:** (add email)
+- **Email:**  Analyst.nz@outlook.com
