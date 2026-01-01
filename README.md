@@ -83,25 +83,26 @@ This background allows me to build dashboards that are:
 ### **1. Demand Forecasting Dashboard**
 A clean, interactive dashboard analysing revenue trends, category performance, and drill‑down insights.
 
-- 📁 PBIX powerbi/SupplyChain_DemandForecast_ProductA_2021-2024.pbix
-- 🖼️ Screenshots images/SupplyChain_DemandForecast_Dashboard_ProductA.JPG
-- 📄 Project Folder README.md
+- 📁 PBIX [pbix/SupplyChain_DemandForecast_ProductA_2021-2024.pbix](pbix/SupplyChain_DemandForecast_ProductA_2021-2024.pbix)
+- 🖼️ Screenshots [images/SupplyChain_DemandForecast_Dashboard_ProductA.JPG](images/SupplyChain_DemandForecast_Dashboard_ProductA.JPG)
+- 📄 Project Folder [README.md](README.md)
+
 
 ---
 
 ### **2. Inventory & Warehouse Dashboard**
 Tracks stock levels, demand patterns, warehouse KPIs, and operational bottlenecks.
 
-- 📁 PBIX File  File pbix/SupplyChain_KPI_Dashboard.pbix
-- 🖼️ Screenshots  images/Supply-chain-kpi-dashboard.JPG
-- 📄 Project Folder  README.md
+- 📁 PBIX File [pbix/SupplyChain_KPI_Dashboard.pbix](pbix/SupplyChain_KPI_Dashboard.pbix)
+- 🖼️ Screenshots  [images/Supply-chain-kpi-dashboard.JPG](images/Supply-chain-kpi-dashboard.JPG)
+- 📄 Project Folder [README.md](README.md)
 
 ---
 
 ### **3. Retail & FMCG Insights Dashboard**
 Visualises sales, margins, product performance, and customer behaviour.
 
-- 📄 Project Folder  README.md
+- 📄 Project Folder [README.md](README.md)
 
 ---
 
@@ -114,9 +115,9 @@ Visualises sales, margins, product performance, and customer behaviour.
 - Customer segmentation using CTEs  
 - Inventory ageing report
 -  
-- 📁 PBIX sql
-- 🖼️ Screenshots images
-- 📄 Project Folder README.md
+- 📁 SQL Folder [sql](sql)
+- 🖼️ Screenshots [images](images)
+- 📄 Project Folder [README.md](README.md)
   
 ---
 
@@ -127,8 +128,8 @@ Visualises sales, margins, product performance, and customer behaviour.
 - Data cleaning with pandas  
 - Visualising trends with matplotlib & seaborn
 -   
-- 📁 Notebook supply_chain_logistics_analysis.ipynb
-- 📄 Project Folder README.md
+- 📁 Notebook [notebooks/supply_chain_logistics_analysis.ipynb](notebooks/supply_chain_logistics_analysis.ipynb)
+- 📄 Project Folder [README.md](README.md)
 
 ---
 
